@@ -67,8 +67,8 @@
 		qcom,mdss-dsi-panel-peak-brightness = <1000000>;
 		qcom,mdss-dsi-panel-blackness-level = <1400>;
 
-		// Default to 10% base DC
-		oculus,bklt-duty-cycle-numerator = <1000>;
+		// Default to 20% base DC
+		oculus,bklt-duty-cycle-numerator = <2000>;
 		oculus,bklt-duty-cycle-denominator = <10000>;
 
 		qcom,adjust-timer-wakeup-ms = <1>;
@@ -178,8 +178,8 @@
 		qcom,mdss-dsi-panel-peak-brightness = <1000000>;
 		qcom,mdss-dsi-panel-blackness-level = <1400>;
 
-		// Default to 10% base DC
-		oculus,bklt-duty-cycle-numerator = <1000>;
+		// Default to 20% base DC
+		oculus,bklt-duty-cycle-numerator = <2000>;
 		oculus,bklt-duty-cycle-denominator = <10000>;
 
 		qcom,adjust-timer-wakeup-ms = <1>;
@@ -302,8 +302,8 @@
 		qcom,mdss-dsi-panel-peak-brightness = <1000000>;
 		qcom,mdss-dsi-panel-blackness-level = <1400>;
 
-		// Default to 10% base DC
-		oculus,bklt-duty-cycle-numerator = <1000>;
+		// Default to 20% base DC
+		oculus,bklt-duty-cycle-numerator = <2000>;
 		oculus,bklt-duty-cycle-denominator = <10000>;
 
 		qcom,adjust-timer-wakeup-ms = <1>;
